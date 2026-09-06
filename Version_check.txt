@@ -1,0 +1,6 @@
+V 0.1
+url for download
+Se ha añadido un gestor de actualizaciones.
+Se ha separado en carpetas individuales los elementos que afectan al diseño del juego.
+Se ha uniformado el aspecto visual del juego.
+Se ha añadido elemento visual referente al centro al logo de incio.
