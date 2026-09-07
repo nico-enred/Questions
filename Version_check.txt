@@ -1,6 +1,9 @@
 V 0.1
 https://github.com/nico-enred/QuizztionsQuest/releases/tag/First_Release
 Se ha añadido un gestor de actualizaciones.
-Se ha separado en carpetas individuales los elementos que afectan al diseño del juego.
-Se ha uniformado el aspecto visual del juego.
-Se ha añadido elemento visual referente al centro al logo de incio.
+Ahora funciona correctamente en Windows como programa instalable, sin necesitar tener Python instalado.
+Corregido: las imágenes y categorías se encuentran siempre correctamente, sin importar desde dónde se abra el programa.
+Mejorado el sistema de actualizaciones automáticas, para que futuras versiones se instalen de forma más fiable.
+Corregido: al actualizar, ya no quedan restos de versiones anteriores mezclados con el contenido nuevo.
+La carpeta de categorías (JSON) se crea automáticamente si no existe, evitando errores en la primera instalación.
+La carpeta de categoría Sound ha sido eliminada de la instalación inicial hasta la implementación de los sonidos.
