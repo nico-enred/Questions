@@ -1,5 +1,7 @@
 V 0.1
 https://github.com/nico-enred/QuizztionsQuest/releases/tag/First_Release
+Questions 0_0_Beta
+Questions 0_1_Beta
 Se ha añadido un gestor de actualizaciones.
 Ahora funciona correctamente en Windows como programa instalable, sin necesitar tener Python instalado.
 Corregido: las imágenes y categorías se encuentran siempre correctamente, sin importar desde dónde se abra el programa.
