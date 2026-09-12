@@ -4,7 +4,7 @@
 
 ¿QUÉ ES ESTO?
 
-Questions es un juego tipo trivial pensado para el aula.
+Questions es un juego de preguntas para el aula.
 El profesorado prepara las preguntas (en un archivo con extensión CSV ) y el alumnado juega respondiendo, con marcador, cuenta
 atrás y distintos modos de juego.
 
@@ -12,17 +12,15 @@ Funciona en local, sin necesidad de conexión a internet para jugar
 (la conexión solo se usa para comprobar si existe una nueva versión
 y descargarla).
 
-
 -----------------------------------------
 1. PRIMEROS PASOS
 -----------------------------------------
 
 - Descomprime la carpeta completa donde quieras tenerla (escritorio,
   pendrive, etc.). No muevas ni borres ninguna de las carpetas que
-  van dentro (Images, JSON, etc.):
-  el programa las necesita para funcionar correctamente.
+  van dentro (Images, JSON, etc.): el programa las necesita para funcionar correctamente.
 
-- Haz doble clic en "Question_versión_____.exe" para abrir el programa.
+- Haz doble clic en "Question_version_____.exe" para abrir el programa.
 
 - La primera vez que lo abras no habrá ninguna categoría de preguntas
   cargada todavía. Eso es normal: hay que añadir al menos un archivo
