@@ -49,9 +49,12 @@ y descargarla).
       respuesta 3-distractora  (fila 1-columna 4)
       respuesta 4-distractora (fila 1-columna 5)
 
-  Ejemplo:  ¿Cuál es la capital de Francia?  París  Londres  Roma  Berlín
-			¿Cuánto es 2+2?  4  3  5  6
-			¿Quién pintó la Mona Lisa?  Leonardo da Vinci  Picasso  Velázquez  Goya
+  Ejemplo:            COLUMNA 1				COLUMNA 2    COLUMNA 3       COLUMNA 4		COLUMNA 5
+  			¿Cuál es la capital de Francia?  París        Londres          Roma           Berlín
+			     ¿Cuánto es 2+2? 				4 			 3  			5 				 6
+			¿Quién pintó la Mona Lisa? 	 Leonardo da Vinci  Picasso  	Velázquez 			 Goya
+
+  
 
   IMPORTANTE:
   
