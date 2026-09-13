@@ -39,29 +39,41 @@ y descargarla).
   "geografía.csv"...).
 
 - El programa detecta automáticamente todos los CSV de esa carpeta
-  y los añade como categorías nuevas (es normal que no veas nada cuando 
-  selecciones la carpeta. Solo tienes que estar seguro de haber elegido la
+  y los añade como categorías nuevas (Solo tienes que estar seguro de haber elegido la
   carpeta correcta)
 
 - Formato de cada archivo CSV (una pregunta por línea):
-      pregunta (fila 1-columna 1) , respuesta correcta (fila 1-columna 2) ,
-      respuesta2-distractora (fila 1-columna 3), respuesta 3-distractora  (fila 1-columna 4), 
+      pregunta (fila 1-columna 1) 
+      respuesta correcta (fila 1-columna 2) 
+      respuesta2-distractora (fila 1-columna 3)
+      respuesta 3-distractora  (fila 1-columna 4)
       respuesta 4-distractora (fila 1-columna 5)
-   
 
-  La respuesta correcta va SIEMPRE en segundo lugar, justo después
-  de la pregunta. Puedes crear estos archivos con Excel o cualquier
-  hoja de cálculo, guardándolos como CSV.
+  Ejemplo:  ¿Cuál es la capital de Francia?  París  Londres  Roma  Berlín
+			¿Cuánto es 2+2?  4  3  5  6
+			¿Quién pintó la Mona Lisa?  Leonardo da Vinci  Picasso  Velázquez  Goya
+
+  IMPORTANTE:
+  
+  En caso de utilizar LIbreOffice para crear el CSV desmarcar la casilla de "Tabulador" en el diálogo inicial si abrimos un CSV   existente. Y dejar marcado las comas como separadores.
+  Si lo estamos creando desde cero:
+  Al guardar: usa Archivo > Guardar como > Texto CSV, marca la casilla "Editar configuración de filtro", y en el diálogo selecciona Coma como delimitador (o separador) de campo. Desmarca Tabulador (si apareciera la opción).
+
+  Si usas Excel en Windows:
+
+    Asegúrate de que el separador de listas de Windows está configurado como coma (,). Se cambia en Panel de Control > Región >  	Configuración adicional > Separador de listas.
+
+    Al guardar, usa la opción "CSV UTF-8 (delimitado por comas)" si está disponible.
+  
 
 - Desde esa misma pantalla puedes también eliminar categorías que
   ya no quieras usar.
 
--Un aspecto interesante es que una vez importados los CSV se puede prescindir
- de ellos ya que el juego crea sus propios archivos de consulta.
+-Una vez importados, los CSV ya no son necesarios: el juego guarda su propia copia interna de las preguntas. Puedes mover o borrar los CSV originales sin afectar al juego.
 
--El juego es autoportable. Es decir, si copias la carpeta donde está el ejecutable 
+-El juego es portable. Es decir, si copias la carpeta donde está el ejecutable 
  y la pegas en otro ordenador todo el contenido que ya habías cargado (los CSV, Estadísticas, etc)
- viaja con esa carepta.
+ viaja con esa carpeta.
 
 -----------------------------------------
 3. JUGAR UNA PARTIDA
@@ -79,7 +91,7 @@ y descargarla).
 - Elige el modo de juego:
     * Límite de tiempo: te marca los segundos que tienes para responder. Si se acaban la pregunta se cuenta 
  	como fallada.
-    * Límite de errores: puedes establecer el máximo de fallos que peudes cometer. Si se superan se acaba la partida.
+    * Límite de errores: puedes establecer el máximo de fallos que puedes cometer. Si se superan se acaba la partida.
   
     * También puedes elegir no tener límite de errores o de tiempo.
 
@@ -96,7 +108,7 @@ y descargarla).
   la categoría actual, cuántas preguntas llevas y el total.
 
 - Si elegiste modo con límite de tiempo, verás una cuenta atrás
-  que cambia de color según se vaya agotando el mismo.
+  que cambia de color según se vaya agotando.
 
 - La partida termina automáticamente al agotar las preguntas
   disponibles, o al cumplirse el límite que hayas elegido
@@ -127,11 +139,7 @@ y descargarla).
 - Si el programa no encuentra ninguna categoría al pulsar "Jugar",
   ve a Configuración y añade al menos un archivo CSV de preguntas.
 
-- Si tienes cualquier problema o duda, estaré encantado de ayudar.
-
   Nota: este es mi primer proyecto de programación y podrás encontrar fallos,
   y elementos que se pueden mejorar. En este momento estoy en 'make it work', y
-  espero pasar al modo 'make it nice' en unos meses. Cualquier ayuda o comentario
-  será agradecido. 
-
+  espero pasar al modo 'make it nice' en unos meses. 
 =========================================
