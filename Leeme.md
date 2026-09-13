@@ -141,8 +141,14 @@ y descargarla).
 
 - Si el programa no encuentra ninguna categoría al pulsar "Jugar",
   ve a Configuración y añade al menos un archivo CSV de preguntas.
+  
 
   Nota: este es mi primer proyecto de programación y podrás encontrar fallos,
   y elementos que se pueden mejorar. En este momento estoy en 'make it work', y
   espero pasar al modo 'make it nice' en unos meses. 
 =========================================
+## Créditos y licencias
+
+Este proyecto utiliza CustomTkinter, disponible bajo la Licencia MIT.  
+Copyright (c) 2023 Tom Schimansky.  
+Ver texto completo de la licencia: [LICENSE-CustomTkinter.txt](LICENSE-CustomTkinter.txt)
