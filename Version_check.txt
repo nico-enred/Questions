@@ -1,12 +1,9 @@
-V 0.0
-https://github.com/nico-enred/Questions/releases/download/Temporary_Logo/Questions_0_1_Beta.zip
+V 0.1
+https://github.com/nico-enred/Questions/releases/download/First_update/Questions_0_1_Beta.zip
 Questions 0_0_Beta.exe
 Questions_0_1_Beta.zip
 Questions 0_1_Beta.exe
-Se ha añadido un gestor de actualizaciones.
-Ahora funciona correctamente en Windows como programa instalable, sin necesitar tener Python instalado.
-Corregido: las imágenes y categorías se encuentran siempre correctamente, sin importar desde dónde se abra el programa.
-Mejorado el sistema de actualizaciones automáticas, para que futuras versiones se instalen de forma más fiable.
-Corregido: al actualizar, ya no quedan restos de versiones anteriores mezclados con el contenido nuevo.
-La carpeta de categorías (JSON) se crea automáticamente si no existe, evitando errores en la primera instalación.
-La carpeta de categoría Sound ha sido eliminada de la instalación inicial hasta la implementación de los sonidos.
+Se ha añadido un gestor de actualizaciones que ahora sabe gestionar la presencia del antiguo gestor.
+Se ha mejorado el manejo de los archivos CSV introduciendo la librería CSV de Python3.
+Se ha mejorado la presentación de las respuestas introduciendo salto de línea para impedir el desbordamiento por los límites del botón.
+Se ha añadido el archivo Readme.txt
