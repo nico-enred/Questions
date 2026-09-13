@@ -1,4 +1,4 @@
-V 0.0
+V 0.1
 https://github.com/nico-enred/Questions/releases/download/First_update/Questions_0_1_Beta.zip
 Questions 0_0_Beta.exe
 Questions_0_1_Beta.zip
