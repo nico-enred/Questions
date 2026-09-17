@@ -5,10 +5,10 @@ Questions 0.0.2.zip
 Questions 0.0.2.exe
 Se ha añadido un método de identificación de separadores en CSV para minimizar los errores de importación de dichos archivos
 por incompatibilidad de separadores.
-Se ha remodelado el aspecto y colocación de los botones de limite de errores y de tiempo de la interfaz de selección de nombre, colores
+Se ha remodelado el aspecto y colocación de los botones de límite de errores y de tiempo de la interfaz de selección de nombre, colores
 y categorías.
-Se ha mejorado el sistema interno de gestión de respuestas para hacerlo más seguro e impedir fallos de selección.
-Se ha introducido una función de identificación de ancho y largo de pantalla para minimizar los errores por tamaños de pantalla inferiores a 
+Se ha mejorado el sistema interno de gestión de respuestas para hacerlo más seguro e impedir fallos de selección internos.
+Se ha introducido una función de identificación de ancho y largo de pantalla para minimizar las deformaciones visuales por tamaños de pantalla inferiores a 
 1920 x 1080 en una pantalla del juego (pendiente de implementar en la totalidad del juego)
 Se han introducido los archivos LEEME.txt y README.txt con la información básica del juego.
 Se ha cambiado la denominación de las diferentes versiones cambiando al modelo 0.0.0 (Semantic Versioning)
