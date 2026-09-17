@@ -3,8 +3,8 @@ https://github.com/nico-enred/Questions/releases/download/Second_Release/Questio
 Questions 0_1_Beta.exe
 Questions 0.0.2.zip
 Questions 0.0.2.exe
-Se ha añadido un método de identificación de separadores en CSV para minimizar los errores producidos por usar separadores
-distintos de la coma en la creación de los CSV.
+Se ha añadido un método de identificación de separadores en CSV para minimizar los errores de importación de dichos archivos
+por incompatibilidad de separadores.
 Se ha remodelado el aspecto y colocación de los botones de limite de errores y de tiempo de la interfaz de selección de nombre, colores
 y categorías.
 Se ha mejorado el sistema interno de gestión de respuestas para hacerlo más seguro e impedir fallos de selección.
