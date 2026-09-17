@@ -1,8 +1,8 @@
 0.0.2
 https://github.com/nico-enred/Questions/releases/download/Second_Release/Questions.0.0.2.zip
-Questions 0.0.2.exe
-Questions 0.0.2.zip
 Questions 0_1_Beta.exe
+Questions 0.0.2.zip
+Questions 0.0.2.exe
 Se ha añadido un método de identificación de separadores en CSV para minimizar los errores de importación de dichos archivos
 por incompatibilidad de separadores.
 Se ha remodelado el aspecto y colocación de los botones de límite de errores y de tiempo de la interfaz de selección de nombre, colores
