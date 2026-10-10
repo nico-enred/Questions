@@ -109,7 +109,6 @@ SOMETHING IS NOT WORKING
 If the program does not find any categories when you click "Jugar" (Play), go to Configuración (Settings) and add at least one 
 CSV question file.
 
-Note: this is my first programming project, so you may find bugs and things that can be improved. Right now I am in
-'make it work (first)' mode, and I hope to move on to 'make it nice' mode in a few months.
+Note: it is not optimized for versions earlier than Windows 10.
 
 =========================================
