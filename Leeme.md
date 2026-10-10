@@ -143,9 +143,7 @@ y descargarla).
   ve a Configuración y añade al menos un archivo CSV de preguntas.
   
 
-  Nota: este es mi primer proyecto de programación y podrás encontrar fallos,
-  y elementos que se pueden mejorar. En este momento estoy en 'make it work', y
-  espero pasar al modo 'make it nice' en unos meses. 
+  Nota:para versiones anteriores a Windows 10 no está optimizado.
 =========================================
 ## Créditos y licencias
 
